@@ -3,7 +3,7 @@
 
 Code examples form "Productive Enterprise Web Development with ExtJS and Clear Data Builder" screencast series.
 
-Links mentioned in [Episode 1](http://youtube.com/trainingAtFarata):
+Links mentioned in [Episode 1](http://youtu.be/gsZ9-BopCno):
  
  - [Clear Toolkit on Github](http://farata.github.com/ClearJS/)
  - [Clear Data Builder Eclipse update site](http://cleartoolkit.com/downloads/plugins/extjs/cleardatabuilder/4.1.3/)
