@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.apt.aptEnabled=true
+org.eclipse.jdt.apt.genSrcDir=WebContent
+org.eclipse.jdt.apt.processorOptions/-Acom.faratasystems.cdb.configuration.file=episode_1_crud/src/hibernate.cfg.xml
+org.eclipse.jdt.apt.processorOptions/-Acom.faratasystems.cdb.entities.classpath=episode_1_crud/build/classes
+org.eclipse.jdt.apt.processorOptions/-Acom.faratasystems.dto2extjs.output=episode_1_crud/WebContent
+
+org.eclipse.jdt.apt.processorOptions/-Acom.faratasystems.dto2extjs.package-path-transformer=episode_1_crud:app
+org.eclipse.jdt.apt.processorOptions/-Acom.faratasystems.dto2extjs.class-name-transformer=episode_1_crud.model.$1$3Model<<^((\\w+\\.)*)(\\S+)$
+org.eclipse.jdt.apt.processorOptions/-Acom.faratasystems.cdbjs.store.package-path-transformer=episode_1_crud:app
+org.eclipse.jdt.apt.processorOptions/-Acom.faratasystems.cdbjs.store.class-name-transformer=episode_1_crud.store.$1$3Store<<^((\\w+\\.)*)(\\S+)$
+
+

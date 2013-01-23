@@ -1,0 +1,28 @@
+<annotated-types>
+	<annotated-type name="service.PersonService">
+		<annotations>
+			<annotation name="clear.cdb.extjs.annotations.JSService">
+				<exists/>
+			</annotation>
+		</annotations>
+		<methods>
+			<method to-string="java.util.List&lt;dto.Person&gt; getPersons()" name="getPersons">
+				<parameters>
+				</parameters>
+				<annotations>
+					<annotation name="clear.cdb.extjs.annotations.JSFillMethod">
+						<exists/>
+					</annotation>
+					<annotation name="clear.cdb.extjs.annotations.JSGenerateStore">
+						<exists/>
+					</annotation>
+					<annotation name="clear.cdb.extjs.annotations.JSGenerateSample">
+						<exists/>
+					</annotation>
+				</annotations>
+			</method>
+		</methods>
+	</annotated-type>
+	<dto-mappings>
+	</dto-mappings>
+</annotated-types>
